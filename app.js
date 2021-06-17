@@ -5,8 +5,7 @@ app.listen(3000, () => {
 })
 
 app.get('/', (req, res)=>{
-        res.write('<a>Anh Thi</a>')
+        renderAllArray();
 })
-
 
 module.exports = app;
