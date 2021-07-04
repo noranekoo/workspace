@@ -4,7 +4,7 @@
   "description": "Khong gian lam viec",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
